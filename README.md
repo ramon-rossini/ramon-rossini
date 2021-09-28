@@ -1,6 +1,6 @@
 ## Olá, aqui é o Ramon
 - 👀 Interesse em Front-end
-- 🌱 Estudando os frameworks Angular e Bootstrap e Typescript
+- 🌱 Estudando os frameworks Angular, Bootstrap e Typescript
 
 <div>
   <a href="https://github.com/ramon-rossini">
