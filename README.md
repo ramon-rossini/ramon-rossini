@@ -1,6 +1,6 @@
 ## Olá, aqui é o Ramon
-- 👀 Interesse em Front-end
-- 🌱 Estudando os frameworks Angular, Bootstrap e Typescript
+- 👀 Interesse em Front-end, futuramente Full Stack
+- 🌱 Estudando o framework Bootstrap, superset Typescript e Json
 
 <div>
   <a href="https://github.com/ramon-rossini">
@@ -10,6 +10,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ramon-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Ramon-Angular2" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ramon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
