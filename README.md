@@ -1,6 +1,6 @@
 ## Olá, aqui é o Ramon
-- 👀 Interesse em Front-end, futuramente Full Stack
-- 🌱 Estudando o framework Bootstrap, superset Typescript e Json
+- 👀 Interesse em Front-end e Back-end, visando Full Stack
+- 🌱 Estudando o framework Express, Javascript, Node.JS e Angular
 
 <div>
   <a href="https://github.com/ramon-rossini">
